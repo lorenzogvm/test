@@ -1,1 +1,1 @@
-Questo file NON verrà ignorato
+Questo file NON sarà ignorato
