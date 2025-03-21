@@ -1,1 +1,2 @@
 Questo file NON sarà ignorato
+Aggiunta di una seconda riga
